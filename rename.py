@@ -1,9 +1,8 @@
 import os
-os.chdir('D:\\python\\AI\\sources\\Day - 12\\Code\\Datasets\\val\\kamal\\')
+os.chdir('D:\\python\\Datasets')        # please give the correct directory of the folder
 i=1
 for file in os.listdir():
     src=file
-    dst="kamal"+"_"+str(i)+".jpg"
+    dst="Rajini"+"_"+str(i)+".jpg"      # name with extension
     os.rename(src,dst)
     i+=1
-
