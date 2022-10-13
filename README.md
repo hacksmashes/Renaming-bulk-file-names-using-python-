@@ -5,3 +5,6 @@ No need to download any modules for renaming.
 
 Module used:
   - os 
+
+
+For more details please refer Instagram page: https://www.instagram.com/hack_smashes/
